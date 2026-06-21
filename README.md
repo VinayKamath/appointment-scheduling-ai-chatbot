@@ -161,6 +161,10 @@ Assistant: You're booked with Dr. Mitchell on June 25th at 9:30 AM for a cardiol
 ├── .env.example                   # Template for required environment variables
 └── docs/
     └── er_diagram.png             # Entity-relationship diagram
+    └── streamlit_demo1.png        # Streamlit app demo image1
+    └── streamlit_demo2.png        # Streamlit app demo image2
+    └── streamlit_demo3.png        # Streamlit app demo image3
+
 ```
 
 ## Limitations & Next Steps
