@@ -10,7 +10,14 @@ An AI agent that lets patients book, reschedule, and cancel healthcare appointme
 
 ## Demo
 
-![Streamlit chat interface showing a sample booking conversation](docs/streamlit_demo.png)
+![Streamlit chat interface showing a sample booking conversation](docs/streamlit_demo1.png)
+
+<table>
+<tr>
+<td><img src="docs/streamlit_demo2.png" width="400" alt="App screenshot 2"></td>
+<td><img src="docs/streamlit_demo3.png" width="400" alt="App screenshot 3"></td>
+</tr>
+</table>
 
 ## Table of Contents
 - [Why I Built This](#why-i-built-this)
