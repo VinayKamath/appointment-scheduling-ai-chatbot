@@ -8,6 +8,10 @@
 
 An AI agent that lets patients book, reschedule, and cancel healthcare appointments through a chat conversation instead of a phone call to the front desk.
 
+## Demo
+
+![Streamlit chat interface showing a sample booking conversation](docs/streamlit_demo.png)
+
 ## Table of Contents
 - [Why I Built This](#why-i-built-this)
 - [Features](#features)
